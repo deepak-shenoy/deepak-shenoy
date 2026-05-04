@@ -8,7 +8,7 @@
     <th width="80%"></th>
   </tr>
   <tr>
-    <td style="width: 20%;"><img src=".artifacts/.docs/.img/libtorch-itsm-airport-passenger-forecasting.jpg" width="50%"></td>
+    <td><img src=".artifacts/.docs/.img/libtorch-itsm-airport-passenger-forecasting.jpg" width="50%"></td>
     <td>Airport Forecasting</td>
   </tr>
   <tr>
