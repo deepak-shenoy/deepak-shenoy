@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td><img src=".artifacts/.docs/.img/libtorch-itsm-airport-passenger-forecasting.jpg"></td>
-    <td>Airport Forecasting</td>
+    <td>Time Series Forecasting: Airport passenger trends</td>
   </tr>
   <tr>
     <td></td>
