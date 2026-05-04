@@ -1,0 +1,14 @@
+#
+# May 4th, 2026
+# Deepak Shenoy
+#
+*.idea
+
+# OS generated files #
+######################
+.DS_Store
+*.DS_Store
+.DS_Store?
+*.iml
+ehthumbs.db
+Thumbs.db
