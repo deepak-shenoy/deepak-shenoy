@@ -12,7 +12,7 @@
     <td><a href="https://github.com/deepak-shenoy/libtorch-ltsm-airport-passenger-forecasting">Time Series Forecasting: Airport passenger trends</a></td>
   </tr>
   <tr>
-    <td><img src=".artifacts/.docs/.img/data-clustering.jpg" ></td>
+    <td><img src=".artifacts/.docs/.img/data-clustering.png" ></td>
     <td>Data clustering templates</td>
   </tr>
 </table>
