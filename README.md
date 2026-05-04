@@ -15,6 +15,13 @@
     <td><img src=".artifacts/.docs/.img/data-clustering.jpg" ></td>
     <td><a href="https://github.com/deepak-shenoy/clustering-templates">Data clustering templates</a></td>
   </tr>
+  <tr>
+    <td><img src=".artifacts/.docs/.img/iot-board.jpg" ></td>
+    <td>
+        <a href="https://github.com/deepak-shenoy/iot-interfaces">IoT Interfaces</a>
+        <a href="https://github.com/deepak-shenoy/robot-mini-rover-vehicle-kit">Robot Vehicle</a>
+    </td>
+  </tr>
 </table>
 
 ---
