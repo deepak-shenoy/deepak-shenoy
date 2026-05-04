@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td><img src=".artifacts/.docs/.img/data-clustering.jpg" ></td>
-    <td>Data clustering templates</td>
+    <td><a href="https://github.com/deepak-shenoy/clustering-templates">Data clustering templates</a></td>
   </tr>
 </table>
 
