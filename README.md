@@ -8,8 +8,8 @@
     <th width="60%"></th>
   </tr>
   <tr>
-    <td><img src=".artifacts/.docs/.img/libtorch-itsm-airport-passenger-forecasting.jpg" href="https://github.com/deepak-shenoy/libtorch-ltsm-airport-passenger-forecasting"></td>
-    <td>Time Series Forecasting: Airport passenger trends</td>
+    <td><img src=".artifacts/.docs/.img/libtorch-itsm-airport-passenger-forecasting.jpg" ></td>
+    <td><a href="https://github.com/deepak-shenoy/libtorch-ltsm-airport-passenger-forecasting" style="text-decoration: none;">Time Series Forecasting: Airport passenger trends</a></td>
   </tr>
   <tr>
     <td></td>
