@@ -4,7 +4,7 @@
 >
 > <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="width: 50%;"><img src=".artifacts/.docs/.img/libtorch-itsm-airport-passenger-forecasting.jpg" width="50%"></td>
+    <td style="width: 20%;"><img src=".artifacts/.docs/.img/libtorch-itsm-airport-passenger-forecasting.jpg" width="50%"></td>
     <td>Airport Forecasting</td>
   </tr>
   <tr>
