@@ -22,6 +22,12 @@
         <a href="https://github.com/deepak-shenoy/robot-mini-rover-vehicle-kit">Robot Vehicle</a>
     </td>
   </tr>
+  <tr>
+    <td><img src=".artifacts/.docs/.img/iot_lcd_demo_small.gif" ></td>
+    <td>
+        <a href="https://github.com/deepak-shenoy/lcd-template-v1">IoT Interfacing with a LCD Screen</a>
+    </td>
+  </tr>
 </table>
 
 ---
