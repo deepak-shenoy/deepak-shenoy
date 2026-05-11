@@ -4,10 +4,10 @@
 >
 > <table style="border: none; border-collapse: collapse;">
   <tr>
-    <th width="10%"></th>
-    <th width="40%"></th>
-    <th width="10%"></th>
-    <th width="40%"></th>
+    <th width="15%"></th>
+    <th width="35%"></th>
+    <th width="15%"></th>
+    <th width="35%"></th>
   </tr>
   <tr>
     <td><img src=".artifacts/.docs/.img/libtorch-itsm-airport-passenger-forecasting.jpg" ></td>
