@@ -4,12 +4,16 @@
 >
 > <table style="border: none; border-collapse: collapse;">
   <tr>
-    <th width="20%"></th>
-    <th width="80%"></th>
+    <th width="10%"></th>
+    <th width="40%"></th>
+    <th width="10%"></th>
+    <th width="40%"></th>
   </tr>
   <tr>
     <td><img src=".artifacts/.docs/.img/libtorch-itsm-airport-passenger-forecasting.jpg" ></td>
     <td><a href="https://github.com/deepak-shenoy/libtorch-ltsm-airport-passenger-forecasting">Time Series Forecasting: Airport passenger trends</a></td>
+    <td><img src=".artifacts/.docs/.img/lenia.gif"></td>
+    <td><a href="https://github.com/deepak-shenoy/mass-simulator">Mass Simulator</a></td>
   </tr>
   <tr>
     <td><img src=".artifacts/.docs/.img/data-clustering.jpg" ></td>
