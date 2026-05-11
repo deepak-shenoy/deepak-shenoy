@@ -12,7 +12,7 @@
   <tr>
     <td><img src=".artifacts/.docs/.img/libtorch-itsm-airport-passenger-forecasting.jpg" ></td>
     <td><a href="https://github.com/deepak-shenoy/libtorch-ltsm-airport-passenger-forecasting">Time Series Forecasting: Airport passenger trends</a></td>
-    <td><img src=".artifacts/.docs/.img/lenia.gif"></td>
+    <td><img src=".artifacts/.docs/.img/collisionballs.gif"></td>
     <td><a href="https://github.com/deepak-shenoy/mass-simulator">Mass Simulator</a></td>
   </tr>
   <tr>
